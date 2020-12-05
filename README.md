@@ -10,10 +10,11 @@
 * Steven S.
 
 ## Project Description/Outline
-In looking at data on COVID-19 cases we compared the following by yearly seasons in 2020; Spring, Summer, and Fall.
+In looking at US data on COVID-19 cases we compared the following by yearly seasons in 2020; Spring, Summer, and Fall.
 
 * Politics - Number of cases in Red vs Blue states
-* Ethnicity – Number of cases in social class & ethnicity
+* Population Demographics - number of cases with regard to both gender and age
+* Ethnicity – Number of cases in & ethnicity
 
 **Season definition:
 * Spring – March-May
