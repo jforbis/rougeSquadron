@@ -46,16 +46,18 @@ In looking at US data on COVID-19 cases we compared the following by yearly seas
 
 ## Rough breakdown of tasks/steps:
 * Find correlation of the following:
-    * Politics
+    * Politics (John)
         * Find red vs blue states
         * Combine this data with hospitalization data
         * Bin day/month into season
         * Run correlation on data
-    * Population Demographics (gender/age)
+    * Population Demographics (gender/age) (Kayla) 
         * Merge census data with hospitalization data 
         * Create hot-spot graphic comparing both gender and age (age would be youth, adult, senior)
         * Run correlation to see which gender and age class is affected the most.
-    * Ethnicity Demographics
-        * Merge census data with hospitalization data
-        * Create visualizations showing impact (hospitalization) on ethnicities (white, african american, asian, hispanic, native american)
-        * Run correlation on each ethnicity and see which is more affected
+    * Ethnicity Demographics (Neal, Jay)
+        * Merge census data with hospitalization data (also, look at cleaning api data) - Neal
+        * Create visualizations showing impact (hospitalization) on ethnicities (white, african american, asian, hispanic, native american)  - Jay
+        * Run correlation on each ethnicity and see which is more affected - Neal to do two of correlations and Jay to do 3
+
+        * Steven will join either John or Kayla when he is able to return.
