@@ -1,32 +1,42 @@
-# rougeSquadron
-## Project Title: 
-•	COVID-19 Impacts: Politics, Population Demographics, & Ethnicity
+# GROUP: rougeSquadron
+# PROJECT TITLE: The Relationship of COVID19 on Sex, Age, and Preexisting Medical Conditions. 
 
-## Project Members
+# MEMBERS
 * John F.
 * Kayla S.
 * Jay F.
 * Neal T.
 * Steven S.
 
-## Project Description/Outline
-In looking at US data on COVID-19 cases we compared the following by yearly seasons in 2020; Spring, Summer, and Fall.
+# HYPOTHESISES
+    1. If males are more susceptible to COVID19, then more hospitalizations will occur amoung COVID19 male patients.
+    2. If the elderly are more susceptible to COVID19, then more hospitalizations will occur amoung COVID19 elderly patients.
+    3. If a person has COVID19 and pre-existing medical conditions, then they will be hospitalized. 
 
-* Politics - Number of cases in Red vs Blue states
-* Population Demographics - number of cases with regard to both gender and age
-* Ethnicity – Number of cases in & ethnicity
+# TASKS
+    1. Clean the CSV File - Due: Thursday-Friday
 
-**Season definition:
-* Spring – March-May
-* Summer – June-Aug
-* Fall – Sept-Nov
+    2. Create 3 DataFrames to support each hypothesis - Due: Thursday-Friday
+        a. patient_sex_df = ['Current Status': ['Lab Confirmed'], 'Sex': ['Male','Female'], 'Hospitalized': ['Yes','No'], 'Age Group']
+        b. patient_age_df = ['Current Status': ['Lab Confirmed'], 'Sex': ['Male','Female'], 'Hospitalized': ['Yes','No'], 'Age Group': ['Younger than 50', '50 and Older']]
+        c. patient_premed_df = ['Current Status': ['Lab Confirmed'], 'Sex': ['Male','Female'], 'Hospitalized': ['Yes','No'], 'Age Group', 'Pre-Existing Conditions: ['Yes','No']]
 
-## Questions to Answer
-* Is there a correlation between number of COVID-19 hospitalizations and overall political stance of state?
-* Is there a correlation between a state’s political stance and the impact (hospitalization of ethnicity) of COVID-19 on ethnicity in said state?
-* Which ethnicity has been more impacted?
-* How has the impact of COVID-19 on ethnicity changed over the course of our three seasons?
-* Is it true that only older populations are affected (hospitalized) the most by COVID-19?
+    3. Create Plots to Represent the Data - Due: Thursday-Friday
+        a. Bar Plot of Male and Female vs. Hospitalizations
+        b. Bar Plot of Age vs. Hospitalizations (Both Sexes)
+        c. Bar Plot of Age vs. Hospitalizations (Male)
+        d. Bar Plot of Age vs. Hospitalizations (Female)
+        e. Bar Plot of Pre-Existing and Non-Existing Conditions vs. Hospitalizations (Both Sexes)
+        f. Bar Plot of Pre-Existing and Non-Existing Conditions vs. Hospitalizations (Male)
+        g. Bar Plot of Pre-Existing and Non-Existing Conditions vs. Hospitalizations (Female)
+
+    4. Outline of Presentation - Due: Saturday
+
+    5. Work on Presentation - Due: Sunday - Monday
+
+    6. Finalize Project and Rehersal - Due: Tuesday
+
+    7. Rehersal - Due: Wednesday
 
 ## Datasets to be used
 * HealthData.gov (https://healthdata.gov/node/3281086/api) (various datasets regarding health data)
@@ -43,19 +53,3 @@ In looking at US data on COVID-19 cases we compared the following by yearly seas
         
     * Political Data from 2020 election (to achieve ‘red’ and ‘blue’ determination)
     * https://documenter.getpostman.com/view/8854915/SzS8rjHv?version=latest (hospitalization data)
-
-## Rough breakdown of tasks/steps:
-* Find correlation of the following:
-    * Politics (John)
-        * Find red vs blue states
-        * Combine this data with hospitalization data
-        * Bin day/month into season
-        * Run correlation on data
-    * Population Demographics (gender/age) (Kayla & Steven) 
-        * Merge census data with hospitalization data 
-        * Create hot-spot graphic comparing both gender and age (age would be youth, adult, senior)
-        * Run correlation to see which gender and age class is affected the most.
-    * Ethnicity Demographics (Neal, Jay)
-        * Merge census data with hospitalization data (also, look at cleaning api data) - Neal
-        * Create visualizations showing impact (hospitalization) on ethnicities (white, african american, asian, hispanic, native american)  - Jay
-        * Run correlation on each ethnicity and see which is more affected - Neal to do two of correlations and Jay to do 3
