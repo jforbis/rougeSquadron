@@ -55,9 +55,9 @@
     * https://documenter.getpostman.com/view/8854915/SzS8rjHv?version=latest (hospitalization data)
     
 ## Presentation Order
-1-4: Neal (1.5 min)
-5-13: Sweeny (2 min)
-14-17: Kayla (1.5 min)
-18-20: Jay (1.5 min)
-21-22: John (1.5 min)
-23-26: Neal (2 min)
+    * 1-4: Neal (1.5 min)
+    * 5-13: Sweeny (2 min)
+    * 14-17: Kayla (1.5 min)
+    * 18-20: Jay (1.5 min)
+    * 21-22: John (1.5 min)
+    * 23-26: Neal (2 min)
