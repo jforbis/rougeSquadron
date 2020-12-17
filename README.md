@@ -46,3 +46,11 @@ These three hypotheses should help to identify a person most at risk (being hosp
 
 # Summary
 
+In summary, our group wanted to answer one CORE question: “Who is most likely to be hospitalized if they contract the Coronavirus?” As stated earlier we looked at three separate hypotheses of one main data set provided by the CDC. Our hypotheses, and findings, are as follows:
+·     Hypothesis 1: If males are more susceptible to Covid-19, then more hospitalizations will occur among male patients.
+    ·     Hypothesis 1 Conclusion: Men appear to be slightly more susceptible to COVID-19, with men being hospitalized 5.6% more, but the margin is small enough to require further analysis.
+·     Hypothesis 2: If the elderly are more susceptible to Covid-19, then more hospitalizations will occur among elderly patients.
+    ·     Hypothesis 2 Conclusion: The elderly appear to be much more susceptible to the effects of COVID-19, with hospitalizations sharply increasing in the 50’s and above.
+·     Hypothesis 3: If a person has a pre-existing medical condition and contracts COVID-19, then they are more at risk to be hospitalized.
+    ·     Hypothesis 3 Conclusion: People with pre-existing conditions appear to be at very high risk of being hospitalized when they contract COVID-19, with 88-89% requiring hospitalization
+
