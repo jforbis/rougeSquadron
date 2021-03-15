@@ -39,7 +39,8 @@
     7. Rehersal - Due: Wednesday
 
 ## Possible Datasets to be Used
-* HealthData.gov (https://healthdata.gov/node/3281086/api) (various datasets regarding health data)
+(note, the API for healthdata.gov has changed... but this legacy link will work for a bit longer)
+* HealthData.gov (https://legacy.healthdata.gov/node/3281086/api) (various datasets regarding health data)
 * covidtracking.com/data/api
 
     * CDC
